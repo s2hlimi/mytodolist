@@ -16,6 +16,7 @@
 3. Todo의 상태가 Working 이면 위쪽에 위치하고, Done이면 아래쪽에 위치하도록 구현합니다.
 4. Layout의 최대 넓이는 1200px, 최소 넓이는 800px로 제한하고, 전체 화면의 가운데로 정렬해주세요.
 5. 아래 이미지의 폴더 구조와 동일하게 구현하고 컴포넌트 구성도 똑같이 나눠서 구현해주세요.
+
 ![Untitled](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F533e8a8e-a4a5-41c7-9d40-b26a285afbd2%2FUntitled.png?table=block&id=17a35abe-5849-483c-8fe6-457dd0c418b6&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=530&userId=&cache=v2)
 ---
 
