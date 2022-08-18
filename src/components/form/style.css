@@ -1,0 +1,39 @@
+.form-box {
+  width: 100%;
+  min-width: 800px;
+  max-width: 1200px;
+  height: 20px;
+  padding: 2em 0 5em 0;
+  background: linear-gradient(
+    to bottom,
+    rgb(238, 238, 238),
+    rgb(255, 240, 109)
+  );
+  font: 20px;
+  border-radius: 10px;
+}
+
+label {
+  padding-left: 2em;
+}
+.input {
+  padding: 0.7em 1em;
+  margin: 1em;
+  border-radius: 10px;
+  border: 2px solid gold;
+  background-color: gold;
+}
+
+.int_btn {
+  border-radius: 10px;
+  border: 3px double white;
+  background: gold;
+  padding: 0.7em 2em;
+  margin: 0.5em 2em;
+  float: right;
+}
+
+.int_btn:hover {
+  border: 3px double black;
+  background: white;
+}
