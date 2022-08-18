@@ -19,9 +19,3 @@
 
 ![Untitled](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F533e8a8e-a4a5-41c7-9d40-b26a285afbd2%2FUntitled.png?table=block&id=17a35abe-5849-483c-8fe6-457dd0c418b6&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=530&userId=&cache=v2)
 ---
-
-## Hint
-- 사용한 hook은 오직 useState
-- 기능 구현을 위해 생성한 함수는 2개 입니다. `onChangeHandler` , `onSubmitHandler`
-- 사용한 javascript 내장 메서드는 `map`, `filter` 입니다.
-- todo의 initial state는 `{id: 0, title: “”, body: “”, isDone: false}` 입니다.
