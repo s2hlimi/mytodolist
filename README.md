@@ -1,6 +1,5 @@
 # My to do list
-
-![image](https://user-images.githubusercontent.com/108657283/185281989-10963a21-af7d-450d-80e4-6add64e263ab.png)
+![qq](https://user-images.githubusercontent.com/108657283/185286378-02de7ecd-5b9d-44f5-86d4-e767f9533892.gif)
 ---
 
 ## 구현해야 될 기능
